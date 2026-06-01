@@ -25,7 +25,7 @@ app:
 
 lm:
   model: DeepSeek-V4-Pro
-  max_tokens: 393216
+  max_tokens: 393200
 
 github_settings:
   owner: reasoning-machine
