@@ -24,7 +24,7 @@ app:
   worker_name: depsekapi.js
 
 lm:
-  model: DeepSeek-V4-Pro
+  model: deepseek-v4-pro
   max_tokens: 393200
 
 github_settings:
